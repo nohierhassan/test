@@ -3,4 +3,13 @@ This is the first paragraphThis is the first paragraphThis is the first paragrap
 
 SecondSecondSecondSecondSecondSecondSecondSecondSecondSecondSecondSecond
 SecondSecondSecondSecondSecondSecondSecondSecondSecondSecondSecond
+<<<<<<< HEAD
 SecondSecondSecondSecondSecond.
+
+
+ThirdThirdThirdThirdThirdThirdThirdThirdThirdThirdThirdThirdThirdThird
+ThirdThirdThirdThirdThirdThirdThirdThirdThirdThirdThirdThirdThird
+ThirdThirdThirdThird.
+=======
+SecondSecondSecondThirdThird.
+>>>>>>> newbranch
